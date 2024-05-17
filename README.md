@@ -10,7 +10,7 @@ ameba-rtos is the development framework for Realtek SoCs supported on Linux.
 |AmebaLite    |![alt text][supported] | ![alt text][supported] |
 |AmebaDplus   |![alt text][supported] | ![alt text][supported] |
 
-[supported]: https://img.shields.io/badge/-%E6%94%AF%E6%8C%81-green "supported"
+[supported]: https://img.shields.io/badge/-supported-green "supported"
 
 # Documentation
 
